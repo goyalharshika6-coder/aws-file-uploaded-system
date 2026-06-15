@@ -30,6 +30,20 @@ User → API Gateway → Lambda → S3 Bucket
 - File uploaded directly to S3
 - Stored securely in bucket
 
+- ## Screenshots
+  
+### S3 Bucket
+![S3 Bucket](Screenshot%202026-06-16%20011447.png)
+
+### IAM Role
+![IAM Role](Screenshot%202026-06-16%20011532.png)
+
+### Lambda Function
+![Lambda Function](Screenshot%202026-06-16%20011549.png)
+
+### API Gateway
+![API Gateway](Screenshot%202026-06-16%20011601.png)
+
 ## Author
 
 **Harshika Goyal**
